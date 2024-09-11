@@ -27,7 +27,7 @@ $$
 \begin{align}
 \frac{d\vec{r_J}}{dt}&=\vec{v_J}\\
 \frac{d\vec{v_J}}{dt}&=-\mu_S\frac{\vec{SL_2}+\vec{r_J}}{\left\lVert\vec{SL_2}+\vec{r_J}\right\lVert^3}-\mu_T\frac{\vec{TL_2}+\vec{r_J}}{\left\lVert\vec{TL_2}+\vec{r_J}\right\lVert^3}+\Omega_T^2\left(
-\begin{matrix}
+\begin{matrix}{ccc}
 \left\lVert\vec{SL_2}\right\lVert+X\\
 Y\\
 0
