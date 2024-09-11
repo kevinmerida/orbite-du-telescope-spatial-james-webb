@@ -46,6 +46,8 @@ $$
 
 ## Programmes et résultats
 
+Le programme [**jwst.py**](Code/jwst.py) contient les fonctions permettant la génération des figures ci-dessous. Le notebook [**jwst.ipynb**](Notebook/jwst.ipynb) donne quelques exemples d'appels à ces fonctions.
+
 ![](Data/Figure_traj_opt_1.png)
 
 ![](Data/Figure_traj_opt_2.png)
