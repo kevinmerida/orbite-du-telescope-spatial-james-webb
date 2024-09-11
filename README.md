@@ -1,5 +1,9 @@
 # L’orbite du télescope spatial James Webb
 
+##Présentation
+
+[Vidéo d'illustration](https://www.youtube.com/watch?v=QnqEcD02SWw)
+
 ## Mise en équation pour la simulation numérique
 
 La position $\vec{r_J}$ et la vitesse $\vec{v_J}$ de JWST sont définies dans le référentiel tournant à la vitesse $\Omega_T$, dont l'origine est le point de Lagrange $L_2$.
