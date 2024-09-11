@@ -31,6 +31,11 @@ $$
 \left\lVert\vec{SL_2}\right\lVert+X\\
 Y\\
 0
-\end{matrix}\right)+2\Omega_T\left(\begin{matrix}V_Y\\-V_X\\0\end{matrix}\right)
+\end{matrix}\right)+2\Omega_T\left(
+\begin{matrix}
+V_Y\\
+-V_X\\
+0
+\end{matrix}\right)
 \end{align}
 $$
