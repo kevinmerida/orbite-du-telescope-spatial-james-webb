@@ -1,6 +1,6 @@
 # L’orbite du télescope spatial James Webb
 
-##Présentation
+## Présentation
 
 [Vidéo d'illustration](https://www.youtube.com/watch?v=QnqEcD02SWw)
 
