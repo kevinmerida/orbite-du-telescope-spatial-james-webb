@@ -6,7 +6,7 @@ La position $\vec{r_J}$ et la vitesse $\vec{v_J}$ de JWST sont définies dans le
 
 Le point $S$ désigne le Soleil. Le point $T$ désigne le barycentre Terre-Lune. L'axe $X$ est dans la direction Soleil-Terre.
 
-\begin{equation}
+$$
 \vec{r_J}=
 \left(\begin{matrix}
 X\\
@@ -19,7 +19,7 @@ V_X\\
 V_Y\\
 V_Z
 \end{matrix}\right)
-\end{equation}
+$$
 
 L'équation dynamique est la suivante ($\mu_S$ est le paramètre gravitationnel standard du Soleil, $\mu_T$ est celui du couple Terre-Lune) :
 
