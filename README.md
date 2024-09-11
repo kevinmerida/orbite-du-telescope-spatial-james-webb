@@ -46,4 +46,14 @@ $$
 
 ## Programmes et résultats
 
-![Figure_traj_opt_1.png](Data/Figure_traj_opt_1.png)
+![](Data/Figure_traj_opt_1.png)
+
+![](Data/Figure_traj_opt_2.png)
+
+![](Data/Figure_traj_opt_3.png)
+
+![](Data/Figure_traj_opt_4.png)
+
+![](Data/Figure_traj_opt_5.png)
+
+![](Data/Figure_traj_opt_6.png)
