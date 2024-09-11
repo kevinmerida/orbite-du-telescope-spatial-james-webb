@@ -43,3 +43,7 @@ V_Y\\
 \end{matrix}\right)
 \end{align}
 $$
+
+## Programmes et résultats
+
+![Figure_traj_opt_1.png](Data/Figure_traj_opt_1.png)
