@@ -1,6 +1,8 @@
 # L’orbite du télescope spatial James Webb
 
-La vidéo : https://www.youtube.com/watch?v=QnqEcD02SWw
+## La vidéo
+
+https://www.youtube.com/watch?v=QnqEcD02SWw
 
 ## Mise en équation pour la simulation numérique
 
